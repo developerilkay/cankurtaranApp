@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "790686242646",
+    "firebase_url": "https://cengizkaptan-1f783.firebaseio.com",
+    "project_id": "cengizkaptan-1f783",
+    "storage_bucket": "cengizkaptan-1f783.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790686242646:android:651cb45f2d2f49a9",
+        "android_client_info": {
+          "package_name": "com.im.cankurtaranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790686242646-e20ns9tsupt9mg7hpj80astvki7m7lfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7fIabfqgXNzIrF-d-mc5Rjm3AgypHRDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
